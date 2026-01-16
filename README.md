@@ -1,0 +1,1 @@
+guys I have created a little app to launch the LSPosed parasitic manager with an editable shorcut on some Launchers, because the shortcut the lsposed creates is not editable at least on oneplus launcher, the app need SuperUser permission (SU) because all it does it is exactly the same the action button on the LSPosed module does.
